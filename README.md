@@ -28,3 +28,33 @@ d!   'W M@@@A  ][  M@@@A W`   !b
    'Ms    'V*mmWWmm*f`    gA`
 
 ```
+
+## Project Overview
+
+Tic-Tac-Toe is a simple and fun game that you can play directly from your terminal.
+The game is designed for two players, each using a different symbol (✖️ or ⭕). 
+The goal of the game is to place three of your symbols in a row, either horizontally, vertically, or diagonally, before your opponent does the same.
+
+## How to Run the Game
+
+To run the tic-tac-toe game in Ruby, follow the steps below:
+
+### Prerequisites
+
+- Ruby installed on your machine. You can check if Ruby is installed by running `ruby -v` in your terminal. If Ruby is installed, this command will display the Ruby version. Otherwise, you will need to install Ruby. You can do this by following the instructions on the official Ruby website: https://www.ruby-lang.org/en/documentation/installation/
+
+### Installation
+
+1. Clone the repository or download the source code of the project.
+2. Open a terminal and navigate to the directory containing the `app.rb` file.
+
+### Execution
+
+3. Run the game by executing the following command in the terminal: `ruby app.rb`
+
+
+4. Follow the on-screen instructions to play.
+
+## Thank You for Playing!
+
+We hope you enjoy the tic-tac-toe game in Ruby. Feel free to share your comments or suggestions to improve the game. And thanks AI to write this part `:)`
