@@ -2,7 +2,7 @@
 
 Lab from [The_Hacking_Project](https://www.thehackingproject.org/?locale=fr)
 
-"""
+```
 
     ,__                   __
     '~~****Nm_    _mZ*****~~
@@ -27,4 +27,4 @@ d!   'W M@@@A  ][  M@@@A W`   !b
   VW.   'Ms.   ][   ,gA`   ,Wf
    'Ms    'V*mmWWmm*f`    gA`
 
-"""
+```
